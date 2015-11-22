@@ -22,4 +22,4 @@ The code takes for granted all the data is present in the same folder, un-compre
 6. Writes the table into a text file.
 
 
-TidyData.txt is the output.
+`TidyData.txt` is the output.
